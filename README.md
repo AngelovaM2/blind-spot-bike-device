@@ -40,12 +40,6 @@ We built this in the **USE Engineering Design** course at Eindhoven University o
 
 Seeed Studio XIAO ESP32-C3 · Benewake TF-Luna LiDAR · GPS module · SH1106 1.3" OLED (I2C) · small speaker
 
-## What I learned
-
-The hardest part was choosing the microcontroller. We started with a Raspberry Pi Pico and ran into compatibility problems, then switched to an Arduino Uno, which turned out to be too slow to read the LiDAR and draw the screen at the same time. We ended up with an ESP32-C3, which handled both easily. It taught me to test each part on its own first, and only then combine them, because otherwise you never know which part is causing the problem.
-
-If I did it again, I would combine the GPS and LiDAR loops into one program early on, instead of perfecting them separately, so the timing problems show up sooner.
-
 ---
 
 Made by **Mariana Angelova** with two teammates · [Portfolio](https://AngelovaM2.github.io)
