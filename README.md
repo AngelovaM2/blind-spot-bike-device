@@ -19,7 +19,7 @@ We built this in the **USE Engineering Design** course at Eindhoven University o
 <p>
 <img src="images/blindspot-oled-warning.webp" width="32%" alt="Warning sign on the OLED screen">
 <img src="images/blindspot-gps-speed.webp" width="32%" alt="Speed and time on the OLED screen">
-<img src="images/blindspot-lidar-mount.webp" width="32%" alt="LiDAR sensor at the back of the bike">
+<img src="images/blindspot-circuit.webp" width="32%" alt="Circuit test">
 </p>
 
 ## What is in this repository
